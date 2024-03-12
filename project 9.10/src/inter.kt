@@ -1,0 +1,3 @@
+interface InfoKab {
+    fun info()
+}
